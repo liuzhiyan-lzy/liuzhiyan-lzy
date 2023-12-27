@@ -41,6 +41,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: luoxuanzao # optional
-          AUTHOR_EMAIL: liuxuezhuo0329@163.com # optional
+          AUTHOR_NAME: liuzhiyan-lzy # optional
+          AUTHOR_EMAIL: liuzhiyan.yann@gmail.com # optional
           # you can populate email-id with secretes instead
