@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 December 2022 - To: 31 December 2023
+From: 01 January 2023 - To: 01 January 2024
 
-Total Time: 193 hrs 25 mins
+Total Time: 193 hrs 39 mins
 
-Java             140 hrs 11 mins >>>>>>>>>>>>>>>>>>-------   72.48 %
-JavaScript       37 hrs 21 mins  >>>>>--------------------   19.32 %
+Java             140 hrs 26 mins >>>>>>>>>>>>>>>>>>-------   72.52 %
+JavaScript       37 hrs 21 mins  >>>>>--------------------   19.29 %
 XML              4 hrs 32 mins   >------------------------   02.35 %
 Groovy           1 hr 47 mins    -------------------------   00.93 %
 Gradle           1 hr 38 mins    -------------------------   00.85 %
