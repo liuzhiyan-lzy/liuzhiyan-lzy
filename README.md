@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 January 2023 - To: 23 January 2024
+From: 24 January 2023 - To: 24 January 2024
 
-Total Time: 172 hrs 30 mins
+Total Time: 172 hrs 31 mins
 
 Java              128 hrs         >>>>>>>>>>>>>>>>>>>------   74.20 %
 JavaScript        29 hrs 41 mins  >>>>---------------------   17.21 %
