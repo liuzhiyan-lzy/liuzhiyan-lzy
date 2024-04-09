@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 April 2023 - To: 07 April 2024
+From: 09 April 2023 - To: 08 April 2024
 
-Total Time: 40 hrs 45 mins
+Total Time: 41 hrs 2 mins
 
-Java              38 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.33 %
-YAML              36 mins         -------------------------   01.48 %
-Text              27 mins         -------------------------   01.11 %
+Java              39 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.36 %
+YAML              36 mins         -------------------------   01.47 %
+Text              27 mins         -------------------------   01.10 %
 JavaScript        14 mins         -------------------------   00.58 %
 Java Properties   14 mins         -------------------------   00.57 %
 Markdown          12 mins         -------------------------   00.52 %
