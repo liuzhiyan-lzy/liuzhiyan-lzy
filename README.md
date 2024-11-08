@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 November 2023 - To: 06 November 2024
+From: 08 November 2023 - To: 07 November 2024
 
-Total Time: 56 hrs 13 mins
+Total Time: 56 hrs 10 mins
 
-Java              52 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.05 %
-Java Properties   48 mins         -------------------------   01.43 %
-Markdown          31 mins         -------------------------   00.93 %
+Java              52 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.04 %
+Java Properties   48 mins         -------------------------   01.44 %
+Markdown          31 mins         -------------------------   00.94 %
 Python            27 mins         -------------------------   00.82 %
 Properties        24 mins         -------------------------   00.74 %
 JavaScript        19 mins         -------------------------   00.56 %
