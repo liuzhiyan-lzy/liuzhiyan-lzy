@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 September 2024 - To: 24 September 2025
+From: 25 September 2024 - To: 25 September 2025
 
-Total Time: 5 hrs 9 mins
+Total Time: 4 hrs 16 mins
 
-Java   5 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Java   4 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
